@@ -23,3 +23,9 @@ Test locked branch 3
 gh pr create --base main --head features/1234-new-killing-feature --title '[#1] Initialize repo' --body 'More details on the PR that solves issue #1' --> create a PR
 
 gh pr create --help --> To get more details on the capabilities of the gh pr create
+
+
+## Merge strategies
+git merge features/feature1 --> Merge
+git merge --squash features/1234-new-killing-feature -> Squash merge
+
