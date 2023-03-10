@@ -27,5 +27,8 @@ gh pr create --help --> To get more details on the capabilities of the gh pr cre
 
 ## Merge strategies
 git merge features/feature1 --> Merge
-git merge --squash features/1234-new-killing-feature -> Squash merge
+
+git merge --squash features/1234-new-killing-feature --> Squash merge
+
+git rebase --> rebase
 
