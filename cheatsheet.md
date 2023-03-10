@@ -26,7 +26,7 @@ gh pr create --help --> To get more details on the capabilities of the gh pr cre
 
 ## Apply owner on certain files
 
-CODEOWNERS --> file owners are defined in this file
+CODEOWNERS --> file owners are defined in this file (1)
 
 ## Merge strategies
 git merge features/feature1 --> Merge
